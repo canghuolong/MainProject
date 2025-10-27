@@ -1,0 +1,3 @@
+[submodule "Unity/Packages/UnityExtensions"]
+	path = Unity/Packages/UnityExtensions
+	url = git@github.com:canghuolong/UnityExtensions.git
