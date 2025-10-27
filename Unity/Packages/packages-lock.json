@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.sun.csharp-extensions": {
+      "version": "file:CSharpExtensions",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.sun.unity-extensions": {
       "version": "file:UnityExtensions",
       "depth": 0,
