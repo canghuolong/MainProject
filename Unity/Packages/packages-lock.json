@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "com.sun.csharp-extensions": {
+    "com.sun.csharp-utils": {
       "version": "file:CSharpExtensions",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
     },
-    "com.sun.unity-extensions": {
+    "com.sun.unity-utils": {
       "version": "file:UnityExtensions",
       "depth": 0,
       "source": "embedded",
