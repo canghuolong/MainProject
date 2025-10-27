@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "com.sun.csharp-utils": {
-      "version": "file:CSharpExtensions",
+      "version": "file:CSharpUtils",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
     },
     "com.sun.unity-utils": {
-      "version": "file:UnityExtensions",
+      "version": "file:UnityUtils",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
