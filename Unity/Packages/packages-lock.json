@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.sun.unity-extensions": {
+      "version": "file:UnityExtensions",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "2.10.0",
       "depth": 0,
