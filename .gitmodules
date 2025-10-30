@@ -4,3 +4,6 @@
 [submodule "Unity/Packages/CSharpExtensions"]
 	path = Unity/Packages/CSharpUtils
 	url = git@github.com:canghuolong/CSharpExtensions.git
+[submodule "Unity/Packages/ActionSequence"]
+	path = Unity/Packages/ActionSequence
+	url = git@github.com:canghuolong/ActionSequence.git
