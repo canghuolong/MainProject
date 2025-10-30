@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.sun.action-sequence": {
+      "version": "file:ActionSequence",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.sun.csharp-utils": {
       "version": "file:CSharpUtils",
       "depth": 0,
